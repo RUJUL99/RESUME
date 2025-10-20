@@ -1,2 +1,1 @@
-# RESUME
-EXP 12
+# RESUME-
